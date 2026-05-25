@@ -15,7 +15,7 @@ function Home() {
     <div className="min-h-screen bg-gradient-to-b from-blue-600 to-blue-900 flex flex-col items-center px-4 py-10">
       <div className="bg-white w-full max-w-4xl rounded-2xl p-6 shadow-xl">
         <h1 className="text-4xl font-bold text-blue-700">
-          APMG AND ASSOCIATES
+          DLS & Associates LLP
         </h1>
 
         <p className="text-gray-600 mt-2 text-lg">
