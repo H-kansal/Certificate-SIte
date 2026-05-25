@@ -6,8 +6,8 @@
     "status": "Verified",
     "certificateType": "Internship Completion Certificate",
     "duration": "120 Hours",
-    "image": "/images/nitin.jpg",
-    "certificateUrl": "/certificates/sample.pdf"
+    "image": "/images/akshat.jpg",
+    "certificateUrl": "/certificates/Akshat Certificate.pdf"
   },
   {
     "certificateNumber": "DLS-INT-2026-020",
@@ -17,7 +17,7 @@
     "certificateType": "Internship Completion Certificate",
     "duration": "120 Hours",
     "image": "/images/nitin.jpg",
-    "certificateUrl": "/certificates/sample.pdf"
+    "certificateUrl": "/certificates/Nitin certificate.pdf"
   },
   {
     "certificateNumber": "DLS-INT-2026-106",
@@ -26,7 +26,7 @@
     "status": "Verified",
     "certificateType": "Internship Completion Certificate",
     "duration": "120 Hours",
-    "image": "/images/nitin.jpg",
-    "certificateUrl": "/certificates/sample.pdf"
+    "image": "/images/mukul.jpeg",
+    "certificateUrl": "/certificates/Mukul certificate.pdf"
   }
 ]
